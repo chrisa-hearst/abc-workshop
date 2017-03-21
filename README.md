@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <img src="https://www.fastly.com/altitude-nyc/images/footer-logo.png" width="300">
 
 # ABCD: Always be continuously deploying
@@ -28,3 +29,6 @@ To start, follow the tasks in the `exercises` directory:
 2. [Configure continuous deployment with Travis](exercises/2.md)
 3. [Setup multiple environments: staging & production](exercises/3.md)
 4. [Add custom vcl](exercises/4.md)
+=======
+# abc-workshop
+>>>>>>> 5daa01f789b1adefb6a5a03b65765513273bbf85
